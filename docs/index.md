@@ -19,4 +19,4 @@ features:
     description: Put ! description here
 ---
 
-ey-react-component
+ey-freex-ui

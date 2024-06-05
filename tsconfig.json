@@ -8,8 +8,8 @@
     "baseUrl": "./",
     "paths": {
       "@@/*": [".dumi/tmp/*"],
-      "ey-react-component": ["src"],
-      "ey-react-component/*": ["src/*", "*"]
+      "ey-freex-ui": ["src"],
+      "ey-freex-ui/*": ["src/*", "*"]
     }
   },
   "include": [".dumirc.ts", "src/**/*"]

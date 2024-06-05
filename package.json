@@ -70,7 +70,9 @@
     "stylelint": "^14.9.1"
   },
   "dependencies": {
+    "@ant-design/plots": "^2.2.1",
     "antd": "^5.16.1",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "mockjs": "^1.1.0"
   }
 }

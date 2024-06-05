@@ -1,10 +1,10 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  base: '/docs-dist/',
-  publicPath: '/docs-dist/',
-  outputPath: 'docs-dist',
+  base: '/ey-freex-ui/',
+  publicPath: '/ey-freex-ui/',
+  outputPath: 'ey-freex-ui',
   themeConfig: {
-    name: 'ey-react-component',
+    name: 'ey-freex-ui',
   },
 });
